@@ -1,7 +1,15 @@
 # きさらぎ鯖
-ファイルバージョン: 1.6.1
+ファイルバージョン: 1.6.2
 
+<details>
+  <summary>変更履歴</summary>
+ 
 ## 変更履歴
+(NOTE: 古い履歴は https://gist.github.com/KisaragiEffective/6ae146c77689a2626205abb820f115f3/revisions を見ること)
+
+### 1.6.2 (2022-06-28)
+* 変更履歴が長かったので折りたたむ
+
 ### 1.6.1 (2022-06-28)
 * 日本語の意味が通らない部分を修正
 
@@ -39,7 +47,8 @@
 ### 1.0 (2021-09-08)
 * 初版
 
-(NOTE: 古い履歴は https://gist.github.com/KisaragiEffective/6ae146c77689a2626205abb820f115f3/revisions を見ること)
+</details>
+
 ## ガイドライン
 (※強制力はない)
 1. 人が不快に感じているのがわかったらそれをやめる or その人が居ないところでやる
